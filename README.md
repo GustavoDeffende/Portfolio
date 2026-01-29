@@ -1,1 +1,1 @@
-# Portfolio
+# Portfolio{ "rewrites": [{ "source": "/(.*)", "destination": "/" }] }
