@@ -21,7 +21,7 @@ Clique no botão abaixo para publicar o site instantaneamente no Vercel:
 https://vercel.com/new/clone?repository-url=https://github.com/SEU_USUARIO/portfolio-thaissa
 )
 
-> Substitua **SEU_USUARIO** pelo seu usuário do GitHub.
+ 
 
 ## Currículo
 O currículo em PDF está integrado ao site e disponível para download direto.
